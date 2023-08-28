@@ -45,5 +45,9 @@ I am a Frontend Developer from Norway.
 ---
 
 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkusasDesign&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkusasDesign&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkusasDesign&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</div>
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkusasDesign&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
