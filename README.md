@@ -41,3 +41,9 @@ I am a Frontend Developer from Norway.
   <img alt="NextJS" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" width="40" />&nbsp;
   <img alt="TypeScript" height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" />&nbsp;
 </div>
+
+---
+
+My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkusasDesign&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkusasDesign&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
