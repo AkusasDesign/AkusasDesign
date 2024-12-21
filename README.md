@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img alt="Akusas Design Logo" src="https://akusasdesign.com/images/akusas.png" />
   <div id="badges">
     <a href="https://www.facebook.com/akusasdesign">
       <img alt="Facebook Badge" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
